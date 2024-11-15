@@ -1,0 +1,42 @@
+/* .okno{
+    width: 1250px;
+    margin: 6.5px;
+    height: 540px;
+    background-color: rgb(68, 68, 68);
+    border-radius: 25px;
+} */
+.okno{
+    width: 240px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: rgb(68, 68, 68);
+    margin: 10vw;
+}
+.img{
+    width: 100px;
+    height: 160px;
+    padding: 10px;
+    margin-top: -60px;
+}
+.zal{
+    width: 110px;
+    height: 50px;
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+    margin-left: 120px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    width: 110px;
+    height: 100px;
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+    margin-left: 120px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7px;
+    margin-top: -120px;
+}
